@@ -25,3 +25,6 @@
 
 ## План на семестр
 - [📅 План на 5-й семестр / Задания](https://docs.google.com/document/d/1-vk0suU0OSCSsmfH-8w3PFDjt_Jiu13HQUXKto1jHXo/edit?usp=sharing)
+
+## Решение билета
+- [Таблица](https://docs.google.com/spreadsheets/d/1rqSXUlEAiE4ajITu4RaO16V49RbsD7hqaIOsEtO0ZGs/edit?usp=drive_link)
